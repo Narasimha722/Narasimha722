@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narasimha Reddy Asam</h1>
-<h3 align="center">A passionate DevSecOps And MLops Engineer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narasimha722&label=Profile%20views&color=0e75b6&style=flat" alt="narasimha722" /> </p>
 
